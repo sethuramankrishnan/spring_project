@@ -1,0 +1,20 @@
+https://redsky.target.com/v1/products/list/1247?searchTerm=056170057&member_id=2679000053&limit=20&storeSearch=true&isRedCardHolder=true
+
+Target UPC :
+
+https://redsky.target.com/v1/products/list?searchTerm=190021305717
+
+Store Details :
+
+https://redsky.target.com/v2/stores/nearby/90001?key=eb2551e4accc14f38cc42d32fbc2b2ea&locale=en-US&limit=10&range=40
+
+
+https://redsky.target.com/v1/products/list/1247?searchTerm=056170057
+
+
+https://api.target.com/available_to_promise/v2/53334249
+/search?key=eb2551e4accc14f38cc42d32fbc2b2ea&nearby=90017
+&field_groups=location_summary&multichannel_option=none&inventory_type=stores&requested_quantity=1&radius=5000
+
+https://api.target.com/available_to_promise/v2/53334249/search?key=eb2551e4accc14f38cc42d32fbc2b2ea&nearby=90017
+&field_groups=location_summary&multichannel_option=none&inventory_type=stores&location_available_to_promise_quantity=1&radius=5000
