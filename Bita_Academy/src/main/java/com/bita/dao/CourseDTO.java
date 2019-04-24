@@ -6,6 +6,7 @@ public class CourseDTO {
 	private String coureId;
 	private boolean course;
 	private Long amount;
+	
 	public String getCoureId() {
 		return coureId;
 	}

@@ -14,7 +14,7 @@ import javax.persistence.Table;
 public class UserEntity implements Serializable {
 	private long userId;
 	private String userName;
-	private char activeFlag;
+	private String activeFlag;
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
@@ -34,14 +34,13 @@ public class UserEntity implements Serializable {
 	public void setUserName(String userName) {
 		this.userName = userName;
 	}
-@Column
-	public char getActiveFlag() {
+
+	@Column
+	public String getActiveFlag() {
 		return activeFlag;
 	}
 
-	public void setActiveFlag(char activeFlag) {
+	public void setActiveFlag(String activeFlag) {
 		this.activeFlag = activeFlag;
 	}
-
-	
 }
