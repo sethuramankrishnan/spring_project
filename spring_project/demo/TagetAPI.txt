@@ -1,0 +1,13 @@
+Target API
+
+Store Detail:
+
+https://redsky.target.com/v2/stores/location/1425?key=eb2551e4accc14f38cc42d32fbc2b2ea&locale=en-US
+
+
+Store List
+https://redsky.target.com/v2/stores/nearby/90001?key=eb2551e4accc14f38cc42d32fbc2b2ea&locale=en-US&limit=20&range=250
+
+key=eb2551e4accc14f38cc42d32fbc2b2ea&locale=en-US&limit=20&range=250
+
+&format=json&locale=en-US&limit=20&range=30
